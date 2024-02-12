@@ -8,6 +8,7 @@ I am 27 years old, based in İstanbul/Türkiye, married and have a sweet girl. I
 - 🧑‍💻 <a><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /></a>
 <a><img alt="R" src="https://img.shields.io/badge/-R-333333?style=flat&logo=r" /></a>
 <a><img alt=".Net" src="https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet" /></a>
+<a><img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell" /></a>
 
 - 🛢 <img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoftsqlserver" /></a>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" /></a>
