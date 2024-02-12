@@ -1,4 +1,4 @@
-<h1 align="center">Hellö👋 I'm Osman.</h1> 
+<h1 align="center">Hellö👋 I'm Osman!</h1> 
 <h2>🤘About Me</h2> 
 
 I am 27 years old, based in İstanbul/Türkiye, married and have a sweet girl. I define myself as a book, history and science lover. My professional areas are SQL and NoSQL technologies, Data Science and Data Architecture. I guess this information is enough for now. 😊 By the way, you can contact me from the section below which has my social media.
