@@ -15,6 +15,8 @@ I am 27 years old, based in İstanbul/Türkiye, married and have a sweet girl. I
 
 - 🔧 <img alt="SSMS" src="https://img.shields.io/badge/-SSMS-333333?style=flat&logo=microsoftsqlserver" /></a>
 <img alt="Studio3T" src="https://img.shields.io/badge/-Studio3T-333333?style=flat&logo=studio3t" /></a>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visualstudiocode" /></a>
+<img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-333333?style=flat&logo=visualstudio" /></a>
 
 <br/>
 <a href="https://github.com/kisinamso">
