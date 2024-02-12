@@ -21,8 +21,8 @@ I am 27 years old, based in İstanbul/Türkiye, married and have a sweet girl. I
 
 <br/>
 <a href="https://github.com/kisinamso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kisinamso&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisinamso&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kisinamso&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisinamso&theme=buefy&layout=compact" />
 </a>
 <br/>
 
