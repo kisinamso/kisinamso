@@ -6,7 +6,7 @@
 > - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isikosman/)
 
 > [!TIP]
-> Useful T-SQL scripts --> [SQLBox](https://github.com/kisinamso/SQLBox)
+> - Useful T-SQL scripts --> [SQLBox](https://github.com/kisinamso/SQLBox)
 
 > [!IMPORTANT]
 > No important things for now.
